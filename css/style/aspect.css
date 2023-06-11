@@ -1,0 +1,13 @@
+/* Definition of aspect ratio */
+.video-ratio {
+  aspect-ratio: 16 / 9 !important;
+}
+
+.picture-ratio {
+  aspect-ratio: 3 / 2 !important;
+}
+
+.people-ratio {
+  aspect-ratio: 1 / 1 !important;
+}
+

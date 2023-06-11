@@ -1,0 +1,207 @@
+.is-family-regular-jp {
+    font-family: "Noto Sans JP", sans-serif !important;
+}
+
+.is-family-regular-en {
+    font-family: "Noto Sans", sans-serif !important;
+}
+
+/**
+ * Font size
+ * headline
+ */
+.h-xxl {
+  font-size: 57px !important;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-xl {
+  font-size: 45px !important;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-l {
+  font-size: 36px !important;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-l-mobile {
+  font-size: 32px !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-m {
+  font-size: 32px !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-m-mobile {
+  font-size: 28px !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-s {
+  font-size: 28px !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-s-mobile {
+  font-size: 24px !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-xs {
+  font-size: 24px !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-xs-mobile {
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-xxs {
+  font-size: 20px !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.h-xxs-mobile {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  line-height: 1.7 !important;
+  letter-spacing: 0.04em !important;
+}
+
+/**
+ * Font size
+ * body
+ */
+
+/* Default body text */
+.body-l {
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 1.7 !important;
+  letter-spacing: 0.04em !important;
+}
+
+/**
+ * When the number of characters is large
+ * When the display area is limited
+ */
+.body-m {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 1.7 !important;
+  letter-spacing: 0.04em !important;
+}
+
+/* Default label text */
+.label-l {
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+/**
+ * When the number of characters is large
+ * When the display area is limited
+ */
+.label-m {
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+/* Default supplement text */
+.supplement-l {
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  line-height: 1.7 !important;
+  letter-spacing: 0.02em !important;
+}
+
+/**
+ * When the number of characters is large
+ * When the display area is limited
+ */
+.supplement-m {
+  font-size: 10px !important;
+  font-weight: 400 !important;
+  line-height: 1.7 !important;
+  letter-spacing: 0.02em !important;
+}
+
+.btn-text {
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.04em !important;
+}
+
+/* other Design token */
+
+/* for large font size */
+.is-line-height-s {
+  line-height: 1.4 !important;
+}
+
+/* for largish font size, label, button */
+.is-line-height-m {
+  line-height: 1.5 !important;
+}
+
+/* for small font size */
+.is-line-height-l {
+  line-height: 1.7 !important;
+}
+
+/* for small font size */
+.is-letter-spacing-s {
+  letter-spacing: 0.02em !important;
+}
+
+/* default */
+.is-letter-spacing-m {
+  letter-spacing: 0.04em !important;
+}
+
+/* default */
+.is-font-weight-r {
+  font-weight: 400 !important;
+}
+
+
+/* for label and mobile Headlines */
+.is-font-weight-m {
+  font-weight: 500 !important;
+}
+
+/* emphasis */
+.is-font-weight-b {
+  font-weight: 700 !important;
+}
