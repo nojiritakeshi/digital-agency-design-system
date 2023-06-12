@@ -1,0 +1,116 @@
+/* primary */
+.button-primary {
+  background: #0017C1;
+  border-radius: 8px;
+  padding: 1rem;
+  /* padding: 16px; */
+  color: #ffffff;
+  cursor: pointer;
+  border: 0;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+}
+.button-primary:hover {
+  background: #000082
+}
+.button-primary:active {
+  background: #000082;
+}
+
+.button-primary:focus {
+  outline: 2px solid #ffd300;
+}
+
+.button-primary:disabled {
+  background: #949497;
+  cursor: default;
+}
+
+/* secondary */
+.button-secondary {
+  background: transparent;
+  border-radius: 8px;
+  padding: 1rem;
+  /* padding: 16px; */
+  color: #0017C1;
+  cursor: pointer;
+  border: 1px solid #0017C1;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+}
+.button-secondary:hover {
+  background: #E8F1FE;
+}
+.button-secondary:active {
+  background: #E8F1FE;
+}
+.button-secondary:focus {
+  border: none;
+  outline: 2px solid #ffd300;
+}
+.button-secondary:disabled {
+  color: #949497;
+  border: 1px solid #949497;
+  cursor: default;
+}
+
+/* tertiary */
+.button-tertiary {
+  background: transparent;
+  border-radius: 8px;
+  padding: 1rem;
+  /* padding: 16px; */
+  color: #0017C1;
+  cursor: pointer;
+  border: 0;
+  font-weight: 700;
+  font-size: 1rem;
+  text-decoration-line: underline;
+  letter-spacing: 0.04em;
+}
+.button-tertiary:hover {
+  color: #000082;
+}
+.button-tertiary:active {
+  color: #000082;
+}
+.button-tertiary:focus {
+  color: #0017C1;
+  outline: 2px solid #ffd300;
+}
+.button-tertiary:disabled {
+  color: #949497;
+  cursor: default;
+}
+
+/* scroll-up-button */
+.scroll-up-button {
+  border-radius: 50%;
+  border: 1px solid #0017C1;
+  background: #ffffff;
+  color: #0017C1;
+  padding: 1rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  cursor: pointer;
+}
+.scroll-up-button:hover {
+  background: #E8F1FE;
+}
+.scroll-up-button:active {
+  background: #E8F1FE;
+}
+.scroll-up-button:focus {
+  border: none;
+  outline: 2px solid #ffd300;
+}
+.scroll-up-button:disabled {
+  color: #1A1A1C;
+  border: none;
+  cursor: default;
+}
